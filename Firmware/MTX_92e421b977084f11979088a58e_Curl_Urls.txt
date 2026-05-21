@@ -1,0 +1,3 @@
+curl -fL -o "CAMSPR0134_6G_app_4MB_ai.pmc" https://downloads.hpe.com/pub/softlib2/software1/pubsw-windows/p1739937749/v72523/CAMSPR0134_6G_app_4MB_ai.pmc
+SHA256 Checksum : d0facf2dca7f1ca781b5850742217def17b9239845fc65e5ba14a85e35650694
+
